@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RemObjects Fire
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "AuthenticationApp", "AuthenticationApp\AuthenticationApp.elements", "{895929D5-79EF-4C4B-BF0C-474805293BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{895929D5-79EF-4C4B-BF0C-474805293BA4}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{895929D5-79EF-4C4B-BF0C-474805293BA4}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{895929D5-79EF-4C4B-BF0C-474805293BA4}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{895929D5-79EF-4C4B-BF0C-474805293BA4}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

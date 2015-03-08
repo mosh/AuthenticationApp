@@ -1,0 +1,6 @@
+bin/
+bin/Debug/
+obj/
+*.fire.*
+*v12*
+*.elements.user
